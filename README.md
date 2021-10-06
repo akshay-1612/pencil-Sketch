@@ -1,2 +1,2 @@
 # pencil-Sketch
-Convert the given image into pencil sketch using python
+Convert the given image into pencil sketch using python.
